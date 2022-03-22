@@ -1,5 +1,10 @@
 # Twitter Text Editor Example
 
+for more details please visit 
+https://github.com/twitter/TwitterTextEditor
+
+This example is taken from TwitterTextEditor and modifed to support Tagging
+
 This is an example project to show how to use Twitter Text Editor in a real application.
 The example application demonstrates the following features.
 
