@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KeyboardGuide",
+        "repositoryURL": "https://github.com/niw/KeyboardGuide",
+        "state": {
+          "branch": null,
+          "revision": "20cd2b25f884902dd1d099ab450982b28e331f10",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
